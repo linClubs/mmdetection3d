@@ -1,6 +1,6 @@
 
 
-+ BEVFusion配置
++ [BEVFusion配置](https://github.com/linClubs/mmdetection3d/blob/main/run_bevfusion.md)
 
 ---
 
